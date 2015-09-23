@@ -23,7 +23,7 @@ boolean buttonpressd = false;
 void setup() 
 {
   //fullScreen();
-  size(screen.width, screen.height);
+  size(1280, 800);
   frameRate(60);
   offsetx = width/2-300;
   offsety = height/2-300;
